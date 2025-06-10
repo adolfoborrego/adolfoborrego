@@ -1,4 +1,6 @@
-# 👋 Hi there! I'm Adolfo Borrego
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle;"> Hi there! I'm Adolfo Borrego
+</h1>
 
 🎓 Currently studying Computer Science  
 🚀 Always curious and open to learning new technologies
