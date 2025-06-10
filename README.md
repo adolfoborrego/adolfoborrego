@@ -15,6 +15,10 @@
 - 🇪🇸 Spanish (Native)
 - 🇬🇧 English (Fluent C1)
 
+## 🎯 Interests
+- 🎮 Game development & interactive experiences  
+- 🤖 Artificial Intelligence & Machine Learning
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adolfoborrego&theme=radical&no-frame=true&no-bg=false&margin-w=4)
