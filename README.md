@@ -9,11 +9,13 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo-borrego-gonzález-254744230)
 
+## 🌍 Languages
+- 🇪🇸 Spanish (Native)
+- 🇬🇧 English (Fluent C1)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adolfoborrego&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adolfoborrego&limit=5&theme=dark&no-frame=true&combine_all_yearly_contributions=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adolfoborrego/adolfoborrego/output/github-snake-dark.svg" />
