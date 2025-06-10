@@ -13,7 +13,8 @@
 
 ## 🌍 Languages
 - 🇪🇸 Spanish (Native)
-- 🇬🇧 English (Fluent C1)
+- 🇬🇧 English (C1)
+- 🇩🇪 German (B2/C1)
 
 ## 🎯 Interests
 - 🎮 Game development & interactive experiences  
